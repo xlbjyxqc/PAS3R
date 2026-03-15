@@ -3,26 +3,16 @@
 
 <h2 align="center">PAS3R: Pose-Adaptive Streaming 3D Reconstruction for Long Video Sequences</h2>
 
-<br>
-https://github.com/user-attachments/assets/654c1058-f229-4bbd-be7b-8bea0cffd7b8
-<!-- <h5 align="center">
-
-[![arXiv](https://img.shields.io/badge/Arxiv-2509.26645-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2509.26645) 
-[![Home Page](https://img.shields.io/badge/Project-Website-33728E.svg)](https://rover-xingyu.github.io/TTT3R) 
-[![X](https://img.shields.io/badge/@Xingyu%20Chen-black?logo=X)](https://x.com/RoverXingyu)  [![Bluesky](https://img.shields.io/badge/@Xingyu%20Chen-white?logo=Bluesky)](https://bsky.app/profile/xingyu-chen.bsky.social)
-
-
-[Xingyu Chen](https://rover-xingyu.github.io/),
-[Yue Chen](https://fanegg.github.io/),
-[Yuliang Xiu](https://xiuyuliang.cn/),
-[Andreas Geiger](https://www.cvlibs.net/),
-[Anpei Chen](https://apchenstu.github.io/)
-</h5>
-
 <div align="center">
-TL;DR: A simple state update rule to enhance length generalization for CUT3R.
+  <video src="https://github.com/user-attachments/assets/654c1058-f229-4bbd-be7b-8bea0cffd7b8" 
+         width="100%" 
+         controls="controls" 
+         muted="muted" 
+         autoplay="autoplay" 
+         loop="loop" 
+         style="max-width: 800px;">
+  </video>
 </div>
-<br> -->
 
 ## Getting Started
 
